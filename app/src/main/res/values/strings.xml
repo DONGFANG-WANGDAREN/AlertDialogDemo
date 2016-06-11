@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogDemo</string>
+    <string name="clickme">点我</string>
+    <string name="reset">重置</string>
+</resources>
